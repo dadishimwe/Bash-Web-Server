@@ -1,0 +1,34 @@
+2025-07-25 03:49:02 [access] - POST / HTTP/1.1 405
+2025-07-25 03:49:08 [access] - POST / HTTP/1.1 405
+2025-07-25 03:49:08 [access] - POST / HTTP/1.1 405
+2025-07-25 03:49:18 [access] - POST / HTTP/1.1 405
+2025-07-25 03:49:28 [access] - POST / HTTP/1.1 405
+2025-07-25 03:49:38 [access] - POST / HTTP/1.1 405
+2025-07-25 03:49:48 [access] - POST / HTTP/1.1 405
+2025-07-25 03:49:50 [access] - POST / HTTP/1.1 405
+2025-07-25 03:49:51 [access] - GET / HTTP/1.1
+2025-07-25 03:49:51 [access] - GET /project1.jpg HTTP/1.1
+2025-07-25 03:49:51 [access] - GET /project2.jpg HTTP/1.1
+2025-07-25 03:49:51 [access] - GET /styles.css HTTP/1.1
+2025-07-25 03:49:51 [access] - GET /script.js HTTP/1.1
+2025-07-25 03:49:51 [access] - GET /project3.jpg HTTP/1.1
+2025-07-25 03:49:51 [access] - GET /favicon.ico HTTP/1.1
+2025-07-25 03:49:51 [access] - GET /favicon.ico HTTP/1.1 404
+2025-07-25 03:49:52 [access] - POST / HTTP/1.1 405
+2025-07-25 03:49:54 [access] - POST / HTTP/1.1 405
+2025-07-25 03:49:56 [access] - POST / HTTP/1.1 405
+2025-07-25 03:49:58 [access] - POST / HTTP/1.1 405
+2025-07-25 03:49:58 [access] - POST / HTTP/1.1 405
+2025-07-25 03:50:00 [access] - GET /nonexistent.html HTTP/1.1
+2025-07-25 03:50:00 [access] - GET /nonexistent.html HTTP/1.1 404
+2025-07-25 03:50:02 [access] - POST / HTTP/1.1 405
+2025-07-25 03:50:04 [access] - POST / HTTP/1.1 405
+2025-07-25 03:50:08 [access] - GET /admin HTTP/1.1
+2025-07-25 03:50:08 [access] - GET /admin HTTP/1.1 404
+2025-07-25 03:50:08 [access] - POST / HTTP/1.1 405
+2025-07-25 03:50:08 [access] - POST / HTTP/1.1 405
+2025-07-25 03:50:10 [access] - POST / HTTP/1.1 405
+2025-07-25 03:50:18 [access] - POST / HTTP/1.1 405
+2025-07-25 03:50:28 [access] - POST / HTTP/1.1 405
+2025-07-25 03:50:28 [access] - POST / HTTP/1.1 405
+2025-07-25 03:50:30 [access] - POST / HTTP/1.1 405

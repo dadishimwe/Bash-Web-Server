@@ -1,0 +1,28 @@
+2025-07-23 03:20:34 [error] failed to load accept
+2025-07-23 03:27:18 [error] accept binary not found or not executable: /home/ubuntu/enhanced-bash-web-server/scripts/extras/bash-web-server-loadable
+2025-07-24 01:38:37 [error] failed to read socket
+2025-07-25 03:49:02 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:49:08 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:49:08 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:49:18 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:49:28 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:49:38 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:49:48 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:49:50 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:49:51 [error] Serving error page: 404 Not Found for /favicon.ico
+2025-07-25 03:49:52 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:49:54 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:49:56 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:49:58 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:49:58 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:50:00 [error] Serving error page: 404 Not Found for /nonexistent.html
+2025-07-25 03:50:02 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:50:04 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:50:08 [error] Serving error page: 404 Not Found for /admin
+2025-07-25 03:50:08 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:50:08 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:50:10 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:50:18 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:50:28 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:50:28 [error] Serving error page: 405 Method Not Allowed for /
+2025-07-25 03:50:30 [error] Serving error page: 405 Method Not Allowed for /
