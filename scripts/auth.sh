@@ -3,7 +3,7 @@
 # Simple authentication script
 # This is a very basic implementation and should not be used for production systems without significant enhancements.
 
-AUTH_FILE="/home/ubuntu/Bash-Web-Server/config/users.conf"
+AUTH_FILE="/home/pi/Bash-Web-Server/config/users.conf"
 
 # Function to check credentials
 check_credentials() {
