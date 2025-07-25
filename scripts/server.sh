@@ -16,7 +16,7 @@ else
 fi
 
 # Default values if not set in config
-PORT=${PORT:-8080}
+PORT=${PORT:-3000}
 ADDRESS=${ADDRESS:-"0.0.0.0"}
 DOCUMENT_ROOT=${DOCUMENT_ROOT:-"/home/pi/Bash-Web-Server/www"}
 ENABLE_LOGGING=${ENABLE_LOGGING:-false}
